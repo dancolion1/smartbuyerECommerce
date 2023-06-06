@@ -1,7 +1,7 @@
 Hi! I am OLEABHIELE DANIEL DONALD, I have created this web application.
 
 Welcome to SmartBuyer, your one-stop destination for all your online shopping needs. We have created a seamless shopping experience by leveraging cutting-edge technologies to provide you with a user-friendly and secure platform.
-![IMG_1830](https://github.com/dancolion1/smartbuyerECommerce/assets/101347439/efe2d214-1ccc-4c73-a09c-65bafe012c6b)
+
 ![IMG_1831](https://github.com/dancolion1/smartbuyerECommerce/assets/101347439/dc702e4f-f353-401d-a149-2dbd897181d8)
 
 At the heart of our website, we have used Node.js and Express.js to build a robust and scalable backend. The powerful MongoDB database ensures efficient data storage and retrieval, enabling fast and seamless transactions. With the integration of Stripe, a leading payment gateway, we guarantee secure and hassle-free online payments, providing peace of mind to our customers.
