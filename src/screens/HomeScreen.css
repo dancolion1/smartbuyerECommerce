@@ -1,0 +1,16 @@
+.app {
+    background-color: #111;
+}
+
+
+@media (max-width: 750px) {
+    .homeScreen {
+        margin : 0  auto;
+        width: auto;
+    }
+}
+
+/* .App .hero{
+    color: white;
+    text-align: center;
+}*/

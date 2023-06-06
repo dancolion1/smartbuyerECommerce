@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+}
+
+.loginSCreen {
+    width: 100%;
+    height: auto;
+    background-image: linear-gradient(
+        103.24deg,
+        rgba(o, 8, 29, 0.9) 23.83%,
+        rgba(0, 8, 29, 0.3) 96.1%
+    ),
+    url(https://assets.nflxext.com/ffe/siteui/vlv3/efb4855d-e702-43e5-9997-bba0154152e0/42f6dd08-d478-46e4-a4a8-e3a93aa7e085/IN-en-20230417-popsignuptwoweeks-perspective_alpha_website_large.jpg);
+
+background-size: cover;
+/* height: 100vh; */
+}
+
+.loginSCreen_background {
+    padding: 0.65rem 0.2rem 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 1;
+}
+
+.loginSCreen_logo{
+    width: 180px;
+    height: auto;
+    object-fit: contain;
+    padding: 20px;
+}
