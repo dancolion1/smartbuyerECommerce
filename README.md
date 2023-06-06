@@ -79,7 +79,7 @@ Fullscreen mode
 Responsive Design
 Online Payment Gateway (Stripe)
 Feedback
-If you have any feedback or Suggestion, please reach out to me at dassourabh126@gmail.com
+If you have any feedback or Suggestion, please reach out to me at danieloleabhiele@gmail.com
 
 
 
